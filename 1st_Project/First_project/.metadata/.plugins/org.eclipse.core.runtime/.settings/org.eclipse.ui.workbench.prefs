@@ -1,0 +1,20 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc\tTorg.eclipse.debug.ui.presentation\tTorg.eclipse.gef\tTorg.eclipse.egit.ui.GitTheme\tTorg.eclipse.jdt.ui.presentation\tTorg.eclipse.emf.codegen.ui.jet\tTorg.eclipse.wst.sse.ui\tTorg.eclipse.pde.genericeditor.target.extension.presentation\tTorg.eclipse.mylyn.tasks.ui.presentation\tTterminal.views.theme.category\tTorg.eclipse.compare.contentmergeviewer.TextMergeViewer\tTorg.eclipse.ui.presentation.default\tTorg.eclipse.mylyn.wikitext.ui.presentation
+ColorsAndFontsPreferencePage.selectedElement=Fcom.genuitec.codetogether.ui.client.tests.failurePaneFont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+com.genuitec.codetogether.ui.client.tests.failurePaneFont=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.jdt.junit.failurePaneFont=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.jdt.ui.editors.textfont=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.jdt.ui.javadocfont=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.ui.edit.text.contentAssist.proposals" contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="ALT+SPACE"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.dialogAndWindow" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SPACE"/>\n</org.eclipse.ui.commands>
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START=37,41,45
+org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_TEXT_COLOR=16,16,16
+org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=37,41,45
+org.eclipse.ui.workbench.INACTIVE_TAB_BG_START=53,60,65
+org.eclipse.ui.workbench.TAB_TEXT_FONT=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
+org.eclipse.ui.workbench.TREE_TABLE_FONT=1|\uB098\uB214\uC190\uAE00\uC528 \uD560\uC544\uBC84\uC9C0\uC758\uB098\uB214|18.0|0|COCOA|1|NanumHarABeoJiEuiNaNum;
